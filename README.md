@@ -1,0 +1,1 @@
+G20 Summit sentiment analysis project delves into public opinions surrounding the G20 Summit, employing advanced natural language processing techniques to extract insights from YouTube. Used Random Forest to build Machine Learning Model
